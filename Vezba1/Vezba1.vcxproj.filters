@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c">
+    <ClCompile Include="Vezba1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vezba2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
