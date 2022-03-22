@@ -24,6 +24,7 @@
     <ProjectGuid>{50c32f04-3300-450d-b59a-016f70ac3ef0}</ProjectGuid>
     <RootNamespace>Vezba1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Vezbi</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
