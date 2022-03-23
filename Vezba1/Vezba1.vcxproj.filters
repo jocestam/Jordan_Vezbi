@@ -24,5 +24,8 @@
     <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vezbi_Kontrola_Na_Tekot_Na_Programi_del2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
