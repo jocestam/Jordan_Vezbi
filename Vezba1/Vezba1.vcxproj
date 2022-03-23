@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{50c32f04-3300-450d-b59a-016f70ac3ef0}</ProjectGuid>
-    <RootNamespace>Vezba1</RootNamespace>
+    <RootNamespace>Vezbi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Vezbi</ProjectName>
   </PropertyGroup>
@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="Vezba1.c" />
     <ClCompile Include="Vezba2.c" />
+    <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
