@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="06Vezbi_Vlezno_Izlezni_Podatoci.c" />
     <ClCompile Include="Vezba1.c" />
     <ClCompile Include="Vezba2.c" />
     <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c" />
