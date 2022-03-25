@@ -27,7 +27,7 @@
     <ClCompile Include="Vezbi_Kontrola_Na_Tekot_Na_Programi_del2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="06Vezbi_Vlezno_Izlezni_Podatoci.c">
+    <ClCompile Include="06Vezbi_Vlezno_Izlezni_Naredbi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
