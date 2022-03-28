@@ -30,5 +30,8 @@
     <ClCompile Include="06Vezbi_Vlezno_Izlezni_Naredbi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="07Vezbi_Funkcii.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
