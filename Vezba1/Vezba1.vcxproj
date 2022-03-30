@@ -87,8 +87,11 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <CompileAs>Default</CompileAs>
+      <PreprocessorDefinitions />
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -142,6 +145,8 @@
   <ItemGroup>
     <ClCompile Include="06Vezbi_Vlezno_Izlezni_Naredbi.c" />
     <ClCompile Include="07Vezbi_Funkcii.c" />
+    <ClCompile Include="08_Nizi_Matrica.c" />
+    <ClCompile Include="08_Nizi_Vezbi.c" />
     <ClCompile Include="Vezba1.c" />
     <ClCompile Include="Vezba2.c" />
     <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c" />

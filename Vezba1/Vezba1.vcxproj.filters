@@ -33,5 +33,11 @@
     <ClCompile Include="07Vezbi_Funkcii.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="08_Nizi_Vezbi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08_Nizi_Matrica.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
