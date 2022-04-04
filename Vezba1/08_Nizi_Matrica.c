@@ -5,7 +5,7 @@
 * 4.Да се напише програма која во главната функција внесува број на редици и колони на дводимензионална матрица. Во функцијата vnesiMatrica внесува елементи, а преку функцијата pechatiMatrica ги печати елементите во табеларна форма.
 * a)Да се напишат итеративни верзии на двете функции.
 * b)Да се напишат рекурзивни верзии на двете функции.
-*/
+
 #define MAX 100
 int main()
 {
@@ -19,8 +19,8 @@ int main()
 	vnesiMatrica(a,n, m);
 	pecatiMatrica(a, n, m);
 
-	/*vnesiMatricaRekurzija(a, n, m, 0, 0);
-	pecatiMatricaRekurzija(a,n,m,0,0);*/
+	vnesiMatricaRekurzija(a, n, m, 0, 0);
+	pecatiMatricaRekurzija(a,n,m,0,0);
 	return 0;
 }
 
@@ -53,6 +53,7 @@ pecatiMatrica(const int mat[MAX][MAX],int n,int m)
 	}
 	return 0;
 }
+*/
 /*
 
 int vnesiMatricaRekurzija(int mat[MAX][MAX], int n, int m, int i, int j)

@@ -147,6 +147,7 @@
     <ClCompile Include="07Vezbi_Funkcii.c" />
     <ClCompile Include="08_Nizi_Matrica.c" />
     <ClCompile Include="08_Nizi_Vezbi.c" />
+    <ClCompile Include="Pokazuvaci_Vezbi.c" />
     <ClCompile Include="Vezba1.c" />
     <ClCompile Include="Vezba2.c" />
     <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c" />

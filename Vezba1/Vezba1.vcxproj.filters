@@ -39,5 +39,8 @@
     <ClCompile Include="08_Nizi_Matrica.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pokazuvaci_Vezbi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
