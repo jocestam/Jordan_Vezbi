@@ -31,7 +31,6 @@ int main()
 	void prosek(int d[MAX][MAX]);
 	void (*obrabotiOceni[4])(int) = { pecatiNiza,maxOcena, minOcena, prosek };
 	int choice,i,n,j;
-	/*int m[MAX][MAX];*/
 
 
 	printf("Vnesi broj na studenti: \n");
@@ -50,15 +49,14 @@ int main()
 		}
 	}
 
-	for (i = 0;i < n;i++)
+	/*for (i = 0;i < n;i++)
 	{
 		for (j = 0;j < 5;j++)
 		{
 			printf("%3d", m[i][j]);
 		}
 		printf("\n");
-
-	}
+	}*/
 
 	printf(" Vnesi 0 za da se ispecati nizata so oceni;\n Vnesi 1 za da se ispecati max ocena;\n Vnesi 2 za da se ispecati min ocena;\n Vnesi 3 za prosecna ocena;\n Vnesi 4 za kraj;\n");
 	scanf_s("%d", &choice);
