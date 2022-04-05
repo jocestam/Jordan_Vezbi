@@ -42,5 +42,8 @@
     <ClCompile Include="Pokazuvaci_Vezbi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vezbi_Osnovi_C++.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

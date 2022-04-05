@@ -17,7 +17,7 @@ Vnesi izbor:
 3 Ispecati ja prosechnata ocena za sekoja student
 4 Kraj
 Програмата да се реши со користење на покажувачи до функциите max, min, pecatiNiza, рrosek. Покажувачите кон четирите функции да се сместат во низата obrabotiOceni, а како индекс за повикување на секоја од функкциите да се користи изборот од корисничкото мени.
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -49,14 +49,6 @@ int main()
 		}
 	}
 
-	/*for (i = 0;i < n;i++)
-	{
-		for (j = 0;j < 5;j++)
-		{
-			printf("%3d", m[i][j]);
-		}
-		printf("\n");
-	}*/
 
 	printf(" Vnesi 0 za da se ispecati nizata so oceni;\n Vnesi 1 za da se ispecati max ocena;\n Vnesi 2 za da se ispecati min ocena;\n Vnesi 3 za prosecna ocena;\n Vnesi 4 za kraj;\n");
 	scanf_s("%d", &choice);
@@ -147,3 +139,4 @@ void prosek(const int **d, int n)
 	sr = suma / (n*5);
 	printf("Prosecnata ocena za %d studenti e: %d\n", n, sr);
 }
+*/

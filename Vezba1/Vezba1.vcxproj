@@ -152,6 +152,7 @@
     <ClCompile Include="Vezba2.c" />
     <ClCompile Include="Vezbi_Kontrola_na_tekot_na_programi_del1.c" />
     <ClCompile Include="Vezbi_Kontrola_Na_Tekot_Na_Programi_del2.c" />
+    <ClCompile Include="Vezbi_Osnovi_C++.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
