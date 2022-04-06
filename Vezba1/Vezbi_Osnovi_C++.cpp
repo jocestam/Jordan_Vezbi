@@ -47,3 +47,41 @@ void tripleCallByReference(int &cRef)
     cRef = 3*cRef;
 }
 */
+
+/*
+* 3.1.	Напиши програм кој кој користи функциски урнек min за да го определи помалиот од двата аргументи. Тестирај го прогамот со цели броеви, реални броеви и карактери.
+*/
+
+template < class T > 
+T min(T value1, T value2)
+{
+    T min = value1;
+
+    if (value2 < min)
+        min = value2;
+
+    return min;
+}
+
+int main()
+{
+    int int1, int2;
+
+    cout << "Vnesi 2 celi broja: ";
+    cin >> int1 >> int2;
+    cout << "Pomal cel broj e: "<< min(int1, int2); 
+
+    double double1, double2;
+
+    cout << "\nVnesi 2 realni broevi: ";
+    cin >> double1 >> double2;
+    cout << "Pomal realen broj e: "<< min(double1, double2);
+
+    char char1, char2, char3;
+
+    cout << "\nVnesi 2 karakteri: ";
+    cin >> char1 >> char2;
+    cout << "Minimalniot karakter e: " << min(char1, char2) << endl;
+
+    return 0;
+} 
