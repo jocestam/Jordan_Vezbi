@@ -48,5 +48,16 @@
     <ClCompile Include="Vezba_Klasi1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Klasi2_Funkcii.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Klasi2_Driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dropki.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
