@@ -1,4 +1,5 @@
-#include <iostream>
+
+/*#include <iostream>
 using namespace std;
 #include "dropki.h"
 
@@ -29,4 +30,4 @@ int main()
 		cout << "Vnesovte nepostoecka opcija.";
 	}
 	return 0;
-}
+}*/

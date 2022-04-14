@@ -54,6 +54,9 @@
     <ClCompile Include="Klasi2_Driver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vezba_PrijatelskiFunkcii_DinamickaAlokacija.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dropki.h">
