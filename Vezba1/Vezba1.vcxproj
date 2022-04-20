@@ -148,6 +148,7 @@
     <ClCompile Include="08_Nizi_Matrica.c" />
     <ClCompile Include="08_Nizi_Vezbi.c" />
     <ClCompile Include="Klasi2_Driver.cpp" />
+    <ClCompile Include="Nasleduvanje_Vezbi.cpp" />
     <ClCompile Include="Vezba_Klasi1.cpp" />
     <ClCompile Include="Pokazuvaci_Vezbi.c" />
     <ClCompile Include="Vezba1.c" />

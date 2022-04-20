@@ -6,7 +6,7 @@ using std::endl;
 using std::ostream;
 using std::istream;
 using std::setw;
-
+/*
 class Complex {
 public:
 	Complex(double = 0.0, double = 0.0);       // konstruktor
@@ -47,13 +47,13 @@ const Complex& Complex::operator=(const Complex& right)
 	return *this;   // ovozmozhuva kaskadiranje
 } // kraj na funkcijata operator= 
 
-/*
+
 // Ispechati objekt od klasa Complex vo oblik: (a, b)
-void Complex::print() const
-{
-	cout << '(' << real << ", " << imaginary << ')';
-}
-*/
+//void Complex::print() const
+//{
+//	cout << '(' << real << ", " << imaginary << ')';
+//}
+
 ostream &operator<<(ostream& output, const Complex& num)
 {
 	output << "(" << num.real << ", " << num.imaginary <<") ";
@@ -78,29 +78,30 @@ int main()
 	cout << "Vnesi kompleksen broj. ";
 	cin >> p;
 	cout << "Vnesovte kompleksen broj x:" << p;
-/* 
-	x.print();
-	cout << "\ny: ";
-	y.print();
-	cout << "\nz: ";
-	z.print();
+
+	//x.print();
+	//cout << "\ny: ";
+	//y.print();
+	//cout << "\nz: ";
+	//z.print();
 
 	//x = y + z;
-	cout << "\n\nx = y + z:\n";
-	x.print();
-	cout << " = ";
-    y.print();
-	cout << " + ";
-	z.print();
+	//cout << "\n\nx = y + z:\n";
+	//x.print();
+	//cout << " = ";
+    //y.print();
+	//cout << " + ";
+	//z.print();
 
-	x = y - z;
-	cout << "\n\nx = y - z:\n";
-	x.print();
-	cout << " = ";
-	y.print();
-	cout << " - ";
-	z.print();
-	cout << endl;
-	*/
+	//x = y - z;
+	//cout << "\n\nx = y - z:\n";
+	//x.print();
+	//cout << " = ";
+	//y.print();
+	//cout << " - ";
+	//z.print();
+	//cout << endl;
+	
 	return 0;
 } // kraj main
+*/

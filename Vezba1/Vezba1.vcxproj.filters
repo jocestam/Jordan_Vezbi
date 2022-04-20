@@ -60,6 +60,9 @@
     <ClCompile Include="Vezbi_Preklopuvanje.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nasleduvanje_Vezbi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dropki.h">
